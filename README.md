@@ -9,7 +9,7 @@ Data Cleaning & Analysis - MySQL Workbench
 
 Data Visualization - PowerBI
 
-#Questions
+# Questions
 
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
@@ -23,7 +23,7 @@ Data Visualization - PowerBI
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
-#Findings
+# Findings
 
 1. There are more male employees
 2. White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
@@ -37,6 +37,6 @@ Data Visualization - PowerBI
 10. The net change in employees has increased over the years.
 11. The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
-#Limitations
+# Limitations
 1. During the data analysis, 967 records with negative ages were excluded, and a 'dob_flag' column was added to indicate these invalid dates of birth. Only records with ages 18 years and above were used. 
 2. Additionally, 1,599 records with termination dates far into the future were excluded. Only termination dates less than or equal to the current date were included in the analysis.
